@@ -115,11 +115,11 @@ echo
 echo
 echo
 echo
-toilet -f future "    GUE GANTENG" | lolcat
+toilet -f future "    SEGER? " | lolcat
 echo
-echo $red"##########################$green" SEGER? "$red###########################"
+echo $red"##########################$green" @ahmed_78988"$red###########################"
 echo $yellow
-figlet -f future "DAN LOE BURIQ"
+figlet -f future "BAU MEMEK"
 echo
-echo $red"##########################$green" BAU MEMEK "$red###########################"
+echo $red"##########################$green" Rama Ahmed R"$red###########################"
 echo
